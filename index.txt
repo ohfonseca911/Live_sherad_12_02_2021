@@ -1,0 +1,12 @@
+Crear git GitHub
+
+Nombre: Oscar Hernando Fonseca Martinez
+
+Edad:   30 años
+
+Perfil: Me gusta la tecnología, la lectura y los deportes extremos.
+        Me ha gustado el curso aunque no he podido estar muy atento
+        a las clases, sino me toca llegar a ver los videos en casa
+        por cuestiones laborales.
+
+email:  oscarh.fonseca.911@gmail.com
